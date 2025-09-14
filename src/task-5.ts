@@ -10,3 +10,5 @@ function logStatus(status: "loading"| "success"| "error"): void {
 }
 
 
+console.log(logStatus("loading"));
+
